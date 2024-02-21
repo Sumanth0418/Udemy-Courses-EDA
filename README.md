@@ -1,6 +1,6 @@
 # Udemy-Courses-EDA
 
-- 1. Display the Top 10 Rows of the Dataset
+1. Display the Top 10 Rows of the Dataset
 2. Check the Last 5 Rows of the Dataset
 3. Find Shape of our dataset(Number of rows and Number of Columns)
 4. Getting information about our dataset like the total number of rows, the total number of columns, datatypes of each column, and memory Requirements
